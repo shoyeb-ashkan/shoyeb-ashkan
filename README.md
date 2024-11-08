@@ -3,7 +3,7 @@
 
 ###
 
-<h4 align="left">Front-End Developer | Specializing in React.js</h4>
+<h4 align="left">MERN Stack Developer | Specializing in React.js</h4>
 
 ###
 
@@ -17,7 +17,9 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height="30" alt="nodeJs logo"/>          
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="30" alt="express logo"/>          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="30" alt="express logo"/>       
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" height="30" alt="mongodb logo"/>
 <!--   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  /> -->
   <img width="10" />
