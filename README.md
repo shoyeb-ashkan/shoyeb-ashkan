@@ -1,8 +1,5 @@
 # Shoyeb Ashkan's GitHub Profile
 <h2 align="left">Hey there 👋</h2>
-
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
 ###
 
 <h4 align="left">MERN Stack Developer | Specializing in React.js</h4>
@@ -14,9 +11,7 @@
 ###
 <br clear="both">
 
-<div align="center">
-  <i class="devicon-express-original"></i>
-          
+<div align="center">          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height="30" alt="nodeJs logo"/>          
