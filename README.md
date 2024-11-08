@@ -12,8 +12,10 @@
 ###
 <br clear="both">
 
-<div align="center" style="background-color: white; display: inline-block; padding: 10px; border-radius: 5px;">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height="30" alt="nodeJs logo"/>          
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="30" alt="express logo"/>          
 <!--   <img width="10" />
