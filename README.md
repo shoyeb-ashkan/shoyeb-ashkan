@@ -12,10 +12,10 @@
 ###
 <br clear="both">
 
-<div align="center">
+<div align="center" style="background-color: white; display: inline-block; padding: 10px; border-radius: 5px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"  style="background-color: white; padding: 5px; border-radius: 5px;" height="30" alt="express logo"/>          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="30" alt="express logo"/>          
 <!--   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  /> -->
   <img width="10" />
