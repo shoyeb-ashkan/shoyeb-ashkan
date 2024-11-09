@@ -16,9 +16,7 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height="30" alt="nodeJs logo"/>          
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg"  alt="express Logo" height="30"/>   
-  <img width="10" />
-  <img src="https://github.com/shoyeb-ashkan/shoyeb-ashkan/blob/main/express.svg" height="30" alt="mongodb logo"/>
+  <img src="https://github.com/shoyeb-ashkan/shoyeb-ashkan/blob/main/express-logo.svg"  alt="express Logo" height="30"/>   
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" height="30" alt="mongodb logo"/>
 <!--   <img width="10" />
